@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Programming\AndroidWorkspaces\Android-Learning-Projects\ThreadingAsyncTask\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6092eee57c85ca82d4ba0eff7b849e65875548f">
+        <dex dex="D:\Programming\AndroidWorkspaces\Android-Learning-Projects\ThreadingAsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c8e6be6146282fe00606f869933b5f3fc40d7e0b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Programming\AndroidWorkspaces\Android-Learning-Projects\ThreadingAsyncTask\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2b9f4cff14463ebd01d7fa188518531190068a07">
+        <dex dex="D:\Programming\AndroidWorkspaces\Android-Learning-Projects\ThreadingAsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dbd95a934eb6059a89d6f44f3037961dee17316b\classes.dex" />
+    </item>
+
+</items>
