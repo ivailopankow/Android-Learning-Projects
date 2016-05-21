@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UITabLayout\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UITabLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 5,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 46,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UITabLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 106,
+                        "endColumn": 47,
+                        "endOffset": 148
+                    }
+                }
+            }
+        ]
+    }
+]

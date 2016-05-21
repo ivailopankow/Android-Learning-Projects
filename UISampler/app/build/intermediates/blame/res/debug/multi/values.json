@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 69,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 46,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 172,
+                    "endColumn": 44,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 44,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 60,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 60,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 42,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 42,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 55,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 55,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 58,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 58,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endColumn": 56,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 56,
+                        "endOffset": 303
+                    }
+                }
+            }
+        ]
+    }
+]

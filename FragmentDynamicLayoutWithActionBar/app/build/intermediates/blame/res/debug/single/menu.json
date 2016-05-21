@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\menu\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\menu\\title_menu.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\menu\\title_menu.xml"
+    },
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\menu\\quote_menu.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\menu\\quote_menu.xml"
+    }
+]

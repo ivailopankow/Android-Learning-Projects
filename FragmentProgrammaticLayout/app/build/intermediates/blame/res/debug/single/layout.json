@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentProgrammaticLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titles_item.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentProgrammaticLayout\\app\\src\\main\\res\\layout\\titles_item.xml"
+    },
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentProgrammaticLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quote_fragment.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentProgrammaticLayout\\app\\src\\main\\res\\layout\\quote_fragment.xml"
+    },
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentProgrammaticLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\FragmentProgrammaticLayout\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

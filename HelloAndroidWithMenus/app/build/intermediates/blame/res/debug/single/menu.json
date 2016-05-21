@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\HelloAndroidWithMenus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\HelloAndroidWithMenus\\app\\src\\main\\res\\menu\\context_menu.xml"
+    },
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\HelloAndroidWithMenus\\app\\build\\intermediates\\res\\merged\\debug\\menu\\top_menu.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\HelloAndroidWithMenus\\app\\src\\main\\res\\menu\\top_menu.xml"
+    }
+]

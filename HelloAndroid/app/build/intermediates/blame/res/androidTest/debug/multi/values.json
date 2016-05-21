@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\HelloAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\HelloAndroid\\app\\src\\androidTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 53,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 46,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\HelloAndroid\\app\\src\\androidTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            }
+        ]
+    }
+]

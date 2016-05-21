@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UITabLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UITabLayout\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UITabLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_fragment.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UITabLayout\\app\\src\\main\\res\\layout\\grid_fragment.xml"
+    }
+]

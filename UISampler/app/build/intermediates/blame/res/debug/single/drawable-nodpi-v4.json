@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\android_pressed.png",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\drawable-nodpi\\android_pressed.png"
+    },
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\android_focused.png",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\drawable-nodpi\\android_focused.png"
+    },
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\android_button.xml",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\drawable-nodpi\\android_button.xml"
+    },
+    {
+        "merged": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\android_normal.png",
+        "source": "D:\\Programming\\AndroidWorkspaces\\Android-Learning-Projects\\UISampler\\app\\src\\main\\res\\drawable-nodpi\\android_normal.png"
+    }
+]
